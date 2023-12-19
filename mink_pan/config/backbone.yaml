@@ -1,0 +1,6 @@
+BACKBONE:
+    DIMENSION: 3
+    INPUT_DIM: 4 # coords + intensity
+    CR: 1 # channel ratio, change feature dimensions
+    CHANNELS: [32, 32, 64, 128, 256, 256, 128, 96, 96]
+    RESOLUTION: 0.05

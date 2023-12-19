@@ -1,0 +1,11 @@
+Click==7.0
+easydict==1.9
+hdbscan==0.8.28
+matplotlib==3.5.1
+#MinkowskiEngine==0.5.4
+numpy==1.20.3
+open3d==0.13.0
+pytorch_lightning==1.5.6
+PyYAML==6.0
+scikit_learn==1.1.2
+torch
